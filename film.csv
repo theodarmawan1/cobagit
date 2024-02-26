@@ -1,0 +1,11 @@
+,customer_id,start_date,plan_name,price
+0,1,2020-08-01,trial,0.0
+1,1,2020-08-08,basic monthly,200000.0
+2,2,2020-09-20,trial,0.0
+3,2,2020-09-27,pro annual,2999000.0
+4,13,2020-12-15,trial,0.0
+5,13,2020-12-22,basic monthly,200000.0
+6,13,2021-03-29,pro monthly,399000.0
+7,16,2020-05-31,trial,0.0
+8,16,2020-06-07,basic monthly,200000.0
+9,16,2020-10-21,pro annual,2999000.0
